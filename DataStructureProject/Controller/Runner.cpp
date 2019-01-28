@@ -6,4 +6,10 @@
 //  Copyright © 2019 Metcalfe, Rylan. All rights reserved.
 //
 
-#include <iostream>
+#include "Controller.hpp"
+
+int main()
+{
+    Controller app;
+    app.start();
+}

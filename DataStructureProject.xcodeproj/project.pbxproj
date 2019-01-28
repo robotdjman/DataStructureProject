@@ -60,10 +60,9 @@
 		F3D3FE5821FF8AE90037F6A2 /* DataStructureProject */ = {
 			isa = PBXGroup;
 			children = (
-				F3D3FE6321FF8BA00037F6A2 /* Resources */,
-				F3D3FE6221FF8B980037F6A2 /* Diagrams */,
-				F3D3FE6121FF8B900037F6A2 /* Controller */,
 				F3D3FE6021FF8B870037F6A2 /* Model */,
+				F3D3FE6121FF8B900037F6A2 /* Controller */,
+				F3D3FE6321FF8BA00037F6A2 /* Resources */,
 			);
 			path = DataStructureProject;
 			sourceTree = "<group>";
@@ -81,6 +80,7 @@
 				F3D3FE6421FF8BE80037F6A2 /* Controller.cpp */,
 				F3D3FE6521FF8BE80037F6A2 /* Controller.hpp */,
 				F3D3FE6721FF8BFF0037F6A2 /* Runner.cpp */,
+				F3D3FE6221FF8B980037F6A2 /* Diagrams */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
